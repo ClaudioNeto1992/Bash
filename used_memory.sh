@@ -2,7 +2,7 @@
  
 ###################################################################
 #Script Name:Used Memory
-#Description:The script will get the memory used and show it
+#Description:The script will pick up the memory used and warn if it is less than or equal to 100MB.
 #Args:                               
 #Author:Claudio Joaquim Ferreira Neto                              
 #Email:claudiojfn.1992@gmail.com                                   
